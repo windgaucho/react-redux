@@ -1,0 +1,23 @@
+npm i webpack@1.12.9 --save-dev
+
+npm i html-webpack-plugin --save-dev
+
+npm i webpack-dev-server --save-dev
+
+npm i webpack-merge --save-dev
+
+npm i css-loader style-loader --save-dev
+
+npm i babel-loader babel-core --save-dev
+
+// Estos dos a veces dan problema para instalarse
+npm i babel-preset-es2015 babel-preset-react --save-dev
+
+npm i babel-plugin-syntax-class-properties babel-plugin-syntax-decorators babel-plugin-syntax-object-rest-spread babel-plugin-transform-class-properties babel-plugin-transform-decorators-legacy babel-plugin-transform-object-rest-spread --save-dev
+
+npm i react react-dom --save
+
+npm i babel-plugin-react-transform react-transform-hmr --save-dev
+
+npm i --save redux react-redux
+npm i --save axios redux-promise
